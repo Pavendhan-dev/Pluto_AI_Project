@@ -16,7 +16,7 @@ This project focuses on performing **data analysis and exploratory data analysis
 ##  Project Structure
 
 ```
-AI-ML-Data-Analysis-Project
+Pluto_AI_Project
 │
 ├── EDA & IR.ipynb
 ├── Netflix_titles[1].csv
