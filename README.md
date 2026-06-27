@@ -20,8 +20,7 @@ Pluto_AI_Project
 │
 ├── EDA & IR.ipynb
 ├── Netflix_titles[1].csv
-├── README.md
-└── Report.pdf
+└── README.md
 ```
 
 ##  Project Workflow
